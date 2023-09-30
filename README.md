@@ -1,12 +1,12 @@
-### Hi there, I'm Soham Mirikar 👋
+### Hi there, I'm Suryaprakash Pandey 👋
 
   🔭 I’m currently a Computer Engineering student
 
   🌱 I’m learning Development
   
-  👯 I’m looking to collaborate on Open Source, YouTube
+  👯 I’m looking to collaborate on Open Source Projects :)
   
-  📫 How to reach me: https://www.instagram.com/soham.mirikar.20/
+  📫 How to reach me: sppandey299@gmail.com
   
   😄 Pronouns: he/him
   
