@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Soham Mirikar 👋
 
-<!--
-**suryaprakashpandey/suryaprakashpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🔭 I’m currently a Computer Engineering student
 
-Here are some ideas to get you started:
+  🌱 I’m learning Development
+  
+  👯 I’m looking to collaborate on Open Source, YouTube
+  
+  📫 How to reach me: https://www.instagram.com/soham.mirikar.20/
+  
+  😄 Pronouns: he/him
+  
+  ⚡ Fun fact: I never leave a thing incomplete :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ![alt text](https://github-readme-stats.vercel.app/api?username=suryaprakashpandey&&show_icons=true&title_color=ffffff&icon_color=186A3B&text_color=daf7dc&bg_color=151515)
