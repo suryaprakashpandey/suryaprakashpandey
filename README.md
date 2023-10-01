@@ -2,7 +2,7 @@
 
   🔭 I’m currently a Computer Engineering student
 
-  🌱 I’m learning Development
+  🌱 I’m a Competitive Programmer, also learning Development
   
   👯 I’m looking to collaborate on Open Source Projects :)
   
